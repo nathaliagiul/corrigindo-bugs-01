@@ -1,1 +1,3 @@
-# corrigindo-bugs-01
+# EXPLORER
+
+Iniciante - Corrigindo bugs (01) 👀
