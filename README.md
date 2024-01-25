@@ -8,4 +8,4 @@ Mas, a surpresa vem aí... **👀**
 
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
-![desafio](https://imgur.com/Yj4vBK3)
+![desafio](https://gcdnb.pbrd.co/images/GHF50NaKxLkg.png?o=1)
