@@ -1,4 +1,3 @@
-# EXPLORER
 
 # 💻 Desafio Iniciante - Corrigindo bugs (01) 👀
 
