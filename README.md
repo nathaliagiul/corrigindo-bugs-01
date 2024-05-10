@@ -7,4 +7,5 @@ Mas, a surpresa vem aí... **👀**
 
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
-![desafio](https://gcdnb.pbrd.co/images/GHF50NaKxLkg.png?o=1)
+![image](https://github.com/nathaliagiul/html-bugFixes1/assets/20890374/2b881ba3-2659-44a4-b471-39d33ea9a982)
+
